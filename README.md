@@ -13,6 +13,8 @@ I dont give any support to bugs or problems with the source , so if you contact 
 -changed char creation stuff<br/>
 -added elementrate to gift packet<br/>
 -and some other stuff ...<br/>
+<br/>
+you can find the original opennos source here: https://github.com/OpenNos/OpenNos
 
 # Contact me #
 Discord: Toxic#1594<br/>
