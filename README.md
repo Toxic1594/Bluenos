@@ -12,6 +12,10 @@ I dont give any support to bugs or problems with the source , so if you contact 
 -ip ban in source (worst way ,but it works)<br/>
 -changed char creation stuff<br/>
 -added elementrate to gift packet<br/>
+-buy command<br/>
+-warp command<br/>
+-base char speed increased<br/>
+-daily reward (commented out bc we dont need that ^^)
 -and some other stuff ...<br/>
 <br/>
 you can find the original opennos source here: https://github.com/OpenNos/OpenNos
