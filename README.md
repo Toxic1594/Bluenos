@@ -21,7 +21,7 @@ I dont give any support to bugs or problems with the source , so if you contact 
 you can find the original opennos source here: https://github.com/OpenNos/OpenNos
 
 # Contact me #
-Discord: Toxic#1594<br/>
+Discord: Singleplayer#1594<br/>
 Epvp: Singleplayer™<br/>
 Email: dust981337@gmail.com<br/>
 
